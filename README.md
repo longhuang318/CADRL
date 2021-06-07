@@ -1,4 +1,4 @@
-# CADRL
+# CADRL  (GA3C, kinematics equation, torch)
 Implementation of paper [Decentralized Non-communicating Multiagent
 Collision Avoidance with Deep Reinforcement Learning](https://arxiv.org/abs/1609.07845)
 by Yu Fan Chen, Miao Liu, Michael Everett and Jonathan P. How
